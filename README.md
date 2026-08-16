@@ -72,6 +72,7 @@ pnpm dsh web
 - [deeptide](https://github.com/paean-ai/deeptide) ⭐1k — Swift 原生 macOS 客户端，原生党福音
 - [dsh-at-file](https://github.com/omdsh-dev/dsh-at-file) — 输入框直接 `@` 引用文件，小而刚需
 - [dsh-genui](https://github.com/omdsh-dev/dsh-genui) — 让模型在回复里直接渲染图表、表格、表单、Diff、Mermaid、交互面板
+- [dsh-context](https://github.com/bowenliang123/dsh-context) ⭐42 — 上下文洞察面板：在 Chat / Trajectory 旁新增 Context 标签页，一眼看清模型上下文窗口的组成与变化——构成对照窗口大小、按请求历史趋势、压缩/注入事件、消息级 token 统计
 
 ## 👁️ 想让纯文本模型「看得见」
 
